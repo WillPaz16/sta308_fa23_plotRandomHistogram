@@ -13,7 +13,7 @@
 #*           distribution that generates my data
 #*      sigma = the theoretical standard deviation
 #*      seed = an optional random number generator seed value,
-#*             defaults to NULL
+#*             defaults to NULL 
 #*      meanColor = the line color corresponding to the 
 #*                  sample mean of the data
 #* Output:
